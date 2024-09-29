@@ -1,4 +1,4 @@
-# Welcome to [Peli's SciFi workshop]
+# Welcome to Peli's SciFi Workshop
 
 Welcome to the home of innovation, creativity, and collaboration! Whether you're a seasoned expert or a beginner, we’re thrilled to have you here. This workshop is designed to be a space where ideas come to life, and every project, no matter how big or small, gets the attention it deserves. Together, we can build something great.
 
@@ -9,7 +9,7 @@ Welcome to the home of innovation, creativity, and collaboration! Whether you're
 
 ## Inspired by Peli Motto: Resourceful, Gritty, and Ready to Build
 
-At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli Motto – a character who embodies resourcefulness, grit, and a deep love for building and fixing things. Like Peli, we believe in:
+At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli Motto – a character who embodies resourcefulness, grit, and a deep love for building and fixing things. [Wookieepedia](https://starwars.fandom.com/wiki/Peli_Motto) Like Peli, we believe in:
 
 - **Rolling Up Our Sleeves**: This is a hands-on community where everyone is encouraged to get involved, problem-solve, and make things work, no matter the challenges.
 - **Embracing Imperfection**: Things don’t always go smoothly, and that’s okay. Like Peli, we know that the best creations often come from trial, error, and a bit of improvisation.
@@ -17,13 +17,32 @@ At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli 
 
 ## Explore Our Current Projects, Review Past Successes, and Shape the Future
 
-At [Your Project’s Workshop Name], every project tells a story. We invite you to:
+At Peli's SciFi Workshop, every project tells a story. We invite you to:
 
 - **Explore Our Current Projects**: Get involved with our active projects. Browse through ongoing work, see what our community is building, and jump in where your skills can make an impact. We’re always looking for fresh ideas and new perspectives.
 
+
+    | Project Repository | Description | Reference Links |
+    |----------|----------|----------|
+    | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+    | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+    | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+
 - **Review Our Past Projects**: Take a look at the projects we’ve completed so far. Our past projects reflect the innovation and collaboration at the core of our community. Learn from them, get inspired, and see how we’ve grown. Reviewing these projects can give you insight into how we work and what you can contribute in the future.
 
+    | Project Repository | Description | Reference Links |
+    |----------|----------|----------|
+    | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+    | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+    | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+
 - **Shape the Future**: Have an idea for a new project? Want to help steer the direction of our next big build? You can play a critical role in shaping the future of our community. Whether you propose a new initiative or contribute to a current project, your ideas and involvement are what will help us continue to grow.
+
+    | Project Repository | Description | Reference Links |
+    |----------|----------|----------|
+    | Under review | Row 1, Col 2 | Row 1, Col 3 |
+    | Under review | Row 2, Col 2 | Row 2, Col 3 |
+    | Under review | Row 3, Col 2 | Row 3, Col 3 |
 
 ## Why Build With Us?
 
