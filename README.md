@@ -24,25 +24,28 @@ At Peli's SciFi Workshop, every project tells a story. We invite you to:
 
     | Project Repository | Description | Reference Links |
     |----------|----------|----------|
-    | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-    | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-    | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+    | Build a Voron v2.4 R2 350 printer | Row 1, Col 2 | Row 1, Col 3 |
+    | Halloween Trick-r-Treat Parade | Row 2, Col 2 | Row 2, Col 3 |
+    | EZ Robot Arm | Row 3, Col 2 | Row 3, Col 3 |
+    | Helldrivers II Gunnery Helmet | Row 3, Col 2 | Row 3, Col 3 |
+    | BT mimi car | Row 3, Col 2 | Row 3, Col 3 |
+
 
 - **Review Our Past Projects**: Take a look at the projects we’ve completed so far. Our past projects reflect the innovation and collaboration at the core of our community. Learn from them, get inspired, and see how we’ve grown. Reviewing these projects can give you insight into how we work and what you can contribute in the future.
 
     | Project Repository | Description | Reference Links |
     |----------|----------|----------|
-    | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-    | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+    | Ventor Starship Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+    | OG Rebel Snow speeder | Row 2, Col 2 | Row 2, Col 3 |
     | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 - **Shape the Future**: Have an idea for a new project? Want to help steer the direction of our next big build? You can play a critical role in shaping the future of our community. Whether you propose a new initiative or contribute to a current project, your ideas and involvement are what will help us continue to grow.
 
     | Project Repository | Description | Reference Links |
     |----------|----------|----------|
-    | Under review | Row 1, Col 2 | Row 1, Col 3 |
-    | Under review | Row 2, Col 2 | Row 2, Col 3 |
-    | Under review | Row 3, Col 2 | Row 3, Col 3 |
+    | Under review | Full scale Robot Droid | Row 1, Col 3 |
+    | Under review | PI self driving Car | Row 2, Col 3 |
+    | Under review | Build a Switch from my old Ender 3 printer| Row 3, Col 3 |
 
 ## Why Build With Us?
 
