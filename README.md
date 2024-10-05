@@ -22,30 +22,33 @@ At Peli's SciFi Workshop, every project tells a story. We invite you to:
 - **Explore Our Current Projects**: Get involved with our active projects. Browse through ongoing work, see what our community is building, and jump in where your skills can make an impact. We’re always looking for fresh ideas and new perspectives.
 
 
-    | Project Repository | Description | Reference Links |
+    | Reference Links  | Description | Project Repository |
     |----------|----------|----------|
-    | Build a Voron v2.4 R2 350 printer | Row 1, Col 2 | Row 1, Col 3 |
+    | [Voron 2.4 r2 rev C LDO Motors Kit](https://docs.ldomotors.com/en/voron/voron2) | To build a Voron V2.4 3D printer capable of printing models on a 350mm plate, the project aims to construct a high-precision and versatile machine suitable for large-scale prints. The design will focus on incorporating robust components, precise calibration mechanisms, and a spacious print bed to accommodate intricate designs with ease. | Row 1, Col 3 |
     | Halloween Trick-r-Treat Parade | Row 2, Col 2 | Row 2, Col 3 |
-    | EZ Robot Arm | Row 3, Col 2 | Row 3, Col 3 |
-    | Helldrivers II Gunnery Helmet | Row 3, Col 2 | Row 3, Col 3 |
-    | BT mimi car | Row 3, Col 2 | Row 3, Col 3 |
+    | [EEZYbotARM Mk2 - 3D Printed Robot](https://www.instructables.com/EEZYbotARM-Mk2-3D-Printed-Robot/)| place | Row 3, Col 3 |
+    | [Helldivers 2 Helmet - Light Gunner - 3D Print Files](https://galacticarmory.net/products/helldivers-2-helmet-light-gunner-3d-print-files) | Row 3, Col 2 | Row 3, Col 3 |
+    | [Simple Bluetooth Controlled Car - Raspberry Pi Pico](https://www.instructables.com/Simple-Bluetooth-Controlled-Car-Raspberry-Pi-Pico/) | Row 3, Col 2 | Row 3, Col 3 |
 
 
 - **Review Our Past Projects**: Take a look at the projects we’ve completed so far. Our past projects reflect the innovation and collaboration at the core of our community. Learn from them, get inspired, and see how we’ve grown. Reviewing these projects can give you insight into how we work and what you can contribute in the future.
 
     | Project Repository | Description | Reference Links |
     |----------|----------|----------|
-    | Ventor Starship Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+    | Ventor Starship | Row 1, Col 2 | Row 1, Col 3 |
     | OG Rebel Snow speeder | Row 2, Col 2 | Row 2, Col 3 |
     | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 - **Shape the Future**: Have an idea for a new project? Want to help steer the direction of our next big build? You can play a critical role in shaping the future of our community. Whether you propose a new initiative or contribute to a current project, your ideas and involvement are what will help us continue to grow.
 
-    | Project Repository | Description | Reference Links |
+    | Project Repository | Reference Links | Description | 
     |----------|----------|----------|
     | Under review | Full scale Robot Droid | Row 1, Col 3 |
-    | Under review | PI self driving Car | Row 2, Col 3 |
-    | Under review | Build a Switch from my old Ender 3 printer| Row 3, Col 3 |
+    | Under review | [SunFounder PiCar-V Smart Car Kit for Raspberry Pi](https://docs.sunfounder.com/projects/picar-v/en/latest/) | Row 2, Col 3 |
+    | Under review | [Ender 3 To Voron Switchwire](https://www.youtube.com/watch?v=hlfd_-uwR8g) | [Ender 3 V2/Ender 3 Pro Upgrade to VORON E3-Switchwire Kit](https://www.siboor.com/product/ender-3-v2-ender-3-pro-upgrade-to-voron-e3-switchwire-kit/) |
+    | Under review | [X-Carve CNC Machine](https://www.inventables.com/products/x-carve-1) | Row 3, Col 3 |
+    | Under review | [Soulout Portable Travel Foldable Power Wheelchair](https://soulouter.com/products/folding-electric-power-wheelchair) | Row 3, Col 3 |
+    | Under review | [Starwars Luke Skywalker landspeeder](https://www.cgtrader.com/3d-models/space/spaceship/starwars-luke-skywalker-landspeeder) | Row 3, Col 3 |
 
 ## Why Build With Us?
 
