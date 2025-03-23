@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 228.5
   },
   "right": {
     "id": "3d71bf2340f946ea",
@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac87a8ef0239ff9",
+  "active": "2812a70abcdb1e42",
   "lastOpenFiles": [
     "Untitled.canvas",
     "README.md"
