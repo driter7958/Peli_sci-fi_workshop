@@ -7,7 +7,7 @@ At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli 
 
 - **Rolling Up Our Sleeves**: This is a hands-on community where everyone is encouraged to get involved, problem-solve, and make things work, no matter the challenges.  
 - **Embracing Imperfection**: Things don’t always go smoothly, and that’s okay. Like Peli, we know that the best creations often come from trial, error, and a bit of improvisation.  
-- **Supporting Each Other**: Just as Peli always has the back of her crew, this community is about helping each other out – offering advice, feedback, and a hand when needed.
+- **Supporting Each Other**: Just as Peli's crew always has her back, this community is about helping each other out – offering advice, feedback, and a hand when needed.
 
 Like Peli Motto, we believe in working with what you’ve got and making it great. Even if we’re starting small, we’re determined to create a space where everyone can contribute, learn, and build together. Let’s roll up our sleeves and get to work\!  
 ## What You'll Find Here:
