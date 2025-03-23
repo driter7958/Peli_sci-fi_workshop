@@ -1,15 +1,6 @@
 # Welcome to Peli's SciFi Workshop
 
 Welcome to the home of innovation, creativity, and collaboration\! Whether you're a seasoned expert or a beginner, we’re thrilled to have you here. This workshop is designed to be a space where ideas come to life, and every project, no matter how big or small, gets the attention it deserves. Together, we can build something great.
-## Building Together:
-
-Like Peli Motto, we believe in working with what you’ve got and making it great. Even if we’re starting small, we’re determined to create a space where everyone can contribute, learn, and build together. Let’s roll up our sleeves and get to work\!  
-## What You'll Find Here:
-
-- **Projects and Tools**: Explore our wide range of resources, including tutorials, project templates, and cutting-edge tools to help you turn your ideas into reality.  
-- **Workshops and Events**: Join us for hands-on workshops, live demos, and community meet-ups that offer opportunities to learn new skills and connect with others.  
-- **Support and Community**: Whether you’re looking for feedback, mentorship, or inspiration, our growing community is here to help every step of the way.
-
 ## Inspired by Peli Motto: Resourceful, Gritty, and Ready to Build
 
 At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli Motto – a character who embodies resourcefulness, grit, and a deep love for building and fixing things. [Wookieepedia](https://starwars.fandom.com/wiki/Peli_Motto) Like Peli, we believe in:
@@ -18,6 +9,12 @@ At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli 
 - **Embracing Imperfection**: Things don’t always go smoothly, and that’s okay. Like Peli, we know that the best creations often come from trial, error, and a bit of improvisation.  
 - **Supporting Each Other**: Just as Peli always has the back of her crew, this community is about helping each other out – offering advice, feedback, and a hand when needed.
 
+Like Peli Motto, we believe in working with what you’ve got and making it great. Even if we’re starting small, we’re determined to create a space where everyone can contribute, learn, and build together. Let’s roll up our sleeves and get to work\!  
+## What You'll Find Here:
+
+- **Projects and Tools**: Explore our wide range of resources, including tutorials, project templates, and cutting-edge tools to help you turn your ideas into reality.  
+- **Workshops and Events**: Join us for hands-on workshops, live demos, and community meet-ups that offer opportunities to learn new skills and connect with others.  
+- **Support and Community**: Whether you’re looking for feedback, mentorship, or inspiration, our growing community is here to help every step of the way.
 ## Explore Our Current Projects, Review Past Successes, and Shape the Future
 
 At Peli's SciFi Workshop, every project tells a story. We invite you to:
