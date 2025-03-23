@@ -1,7 +1,9 @@
 # Welcome to Peli's SciFi Workshop
 
 Welcome to the home of innovation, creativity, and collaboration\! Whether you're a seasoned expert or a beginner, we’re thrilled to have you here. This workshop is designed to be a space where ideas come to life, and every project, no matter how big or small, gets the attention it deserves. Together, we can build something great.
+## Building Together:
 
+Like Peli Motto, we believe in working with what you’ve got and making it great. Even if we’re starting small, we’re determined to create a space where everyone can contribute, learn, and build together. Let’s roll up our sleeves and get to work\!  
 ## What You'll Find Here:
 
 - **Projects and Tools**: Explore our wide range of resources, including tutorials, project templates, and cutting-edge tools to help you turn your ideas into reality.  
@@ -79,6 +81,4 @@ We’d love to hear from you\! Whether you’re interested in contributing to ou
 2. **Participate in Workshops**: Attend our workshops to learn, share, and collaborate on projects in real time.  
 3. **Contribute to Projects**: Whether you want to start your own project or contribute to existing ones, our platform and GitHub repositories are designed to help you get involved.
 
-## Building Together:
 
-Like Peli Motto, we believe in working with what you’ve got and making it great. Even if we’re starting small, we’re determined to create a space where everyone can contribute, learn, and build together. Let’s roll up our sleeves and get to work\!  
