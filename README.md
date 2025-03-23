@@ -34,24 +34,21 @@ At Peli's SciFi Workshop, every project tells a story. We invite you to:
 - **Review Our Past Projects**: Take a look at the projects we’ve completed so far. Our past projects reflect the innovation and collaboration at the core of our community. Learn from them, get inspired, and see how we’ve grown. Reviewing these projects can give you insight into how we work and what you can contribute in the future.
 
 
-| Project Repository    | Description  | fsdfds   | Reference Links |
-| :-------------------- | :----------- | :------- | :-------------- |
-| Ventor Starship       | Row 1, Col 2 |          | place           |
-| OG Rebel Snow speeder | Row 2, Col 2 |          | place           |
-| Row 3, Col 1          | Row 3, Col 2 | asdaesfd | Row 3, Col 3    |
+| Project Repository    | Description  | Reference Links |
+| :-------------------- | :----------- | :-------------- |
+| Ventor Starship       | Row 1, Col 2 | place           |
+| OG Rebel Snow speeder | Row 2, Col 2 | place           |
+| Row 3, Col 1          | Row 3, Col 2 | Row 3, Col 3    |
 
 
 - **Shape the Future**: Have an idea for a new project? Want to help steer the direction of our next big build? You can play a critical role in shaping the future of our community. Whether you propose a new initiative or contribute to a current project, your ideas and involvement are what will help us continue to grow.
 
 
-| Project Repository | Reference Links | Description |
-| :---- | :---- | :---- |
-| Under review | Full scale Robot Droid | Row 1, Col 3 |
-| Under review | [SunFounder PiCar-V Smart Car Kit for Raspberry Pi](https://docs.sunfounder.com/projects/picar-v/en/latest/) | Row 2, Col 3 |
-| Under review | [Ender 3 To Voron Switchwire](https://www.youtube.com/watch?v=hlfd_-uwR8g) | [Ender 3 V2/Ender 3 Pro Upgrade to VORON E3-Switchwire Kit](https://www.siboor.com/product/ender-3-v2-ender-3-pro-upgrade-to-voron-e3-switchwire-kit/) |
-| Under review | [X-Carve CNC Machine](https://www.inventables.com/products/x-carve-1) | Row 3, Col 3 |
-| Under review | [Soulout Portable Travel Foldable Power Wheelchair](https://soulouter.com/products/folding-electric-power-wheelchair) | Row 3, Col 3 |
-| Under review | [Starwars Luke Skywalker landspeeder](https://www.cgtrader.com/3d-models/space/spaceship/starwars-luke-skywalker-landspeeder) | Row 3, Col 3 |
+| Project Repository | Reference Links                                                                                                               | Description                                                                                                                                            |
+| :----------------- | :---------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Under review       | [SunFounder PiCar-V Smart Car Kit for Raspberry Pi](https://docs.sunfounder.com/projects/picar-v/en/latest/)                  | Row 2, Col 3                                                                                                                                           |
+| Under review       | [Ender 3 To Voron Switchwire](https://www.youtube.com/watch?v=hlfd_-uwR8g)                                                    | [Ender 3 V2/Ender 3 Pro Upgrade to VORON E3-Switchwire Kit](https://www.siboor.com/product/ender-3-v2-ender-3-pro-upgrade-to-voron-e3-switchwire-kit/) |
+| Under review       | [Starwars Luke Skywalker landspeeder](https://www.cgtrader.com/3d-models/space/spaceship/starwars-luke-skywalker-landspeeder) | Row 3, Col 3                                                                                                                                           |
 
 ## Why Build With Us?
 
@@ -61,12 +58,12 @@ At Peli's SciFi Workshop, every project tells a story. We invite you to:
 
 ## 3D Printing Capabilities  
 
-| Name   | Print bed size         | Manufacturer / Model                                                                                                                       | Description                                                                                                                                                                                                                                                                                                                                     |
-| ------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Max    | Large (350mm x 350mm)  | [Voron 2.4 r2 rev C LDO Motors Kit](https://docs.ldomotors.com/en/voron/voron2)                                                            | To build a Voron V2.4 3D printer capable of printing models on a 350mm plate, the project aims to construct a high-precision and versatile machine suitable for large-scale prints. The design will focus on incorporating robust components, precise calibration mechanisms, and a spacious print bed to easily accommodate intricate designs. |
-| Millie | Medium (250mm x 250mm) | [Bambu Labs P1S](https://bambulab.com/en-us/p1?product=p1s)                                                                                | **Product Features**<br>- Works right out of the box, set up in 15 minutes<br>- Well-polished hardware and software<br>- Enclosed-body for high-temperature filament printing<br>- Up to 16-color printing with AMS<br>- Up to 20000 mm/s² acceleration, prints a benchy in 18min<br>- Built-in camera for remote monitoring and timelapse      |
-| Mika   | Medium (250mm x 250mm) | [Voron Switchwire [Ender 3 v2 conversion]](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Gizzle/ender-3_pro_switchwire) | **Ender 3 and Ender 3 Pro Switchwire Mod**<br>This is my [Grizzle] interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is the basic version without the possibility to enclose the Ender like the original Switchwire.                                                                                                             |
-| Mini   | Small (180mm x 180mm)  | [Bambu Labs A1mini](https://us.store.bambulab.com/products/a1-mini)                                                                        | **Product Features**<br>- Full-auto Calibration.<br>- 4-Color Printing with AMS lite.<br>- Under 48 dB Low Noise in Silent Mode.<br>- Full-metal Linear Rails and Bearings.<br>- Vibration and Flow Rate Compensation.                                                                                                                          |
+| Printer Name | Print bed size         | Manufacturer / Model                                                                                                                       | Description                                                                                                                                                                                                                                                                                                                                     |
+| ------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Max          | Large (350mm x 350mm)  | [Voron 2.4 r2 rev C LDO Motors Kit](https://docs.ldomotors.com/en/voron/voron2)                                                            | To build a Voron V2.4 3D printer capable of printing models on a 350mm plate, the project aims to construct a high-precision and versatile machine suitable for large-scale prints. The design will focus on incorporating robust components, precise calibration mechanisms, and a spacious print bed to easily accommodate intricate designs. |
+| Millie       | Medium (250mm x 250mm) | [Bambu Labs P1S](https://bambulab.com/en-us/p1?product=p1s)                                                                                | **Product Features**<br>- Works right out of the box, set up in 15 minutes<br>- Well-polished hardware and software<br>- Enclosed-body for high-temperature filament printing<br>- Up to 16-color printing with AMS<br>- Up to 20000 mm/s² acceleration, prints a benchy in 18min<br>- Built-in camera for remote monitoring and timelapse      |
+| Mika         | Medium (250mm x 250mm) | [Voron Switchwire [Ender 3 v2 conversion]](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Gizzle/ender-3_pro_switchwire) | **Ender 3 and Ender 3 Pro Switchwire Mod**<br>This is my [Grizzle] interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is the basic version without the possibility to enclose the Ender like the original Switchwire.                                                                                                             |
+| Mini         | Small (180mm x 180mm)  | [Bambu Labs A1mini](https://us.store.bambulab.com/products/a1-mini)                                                                        | **Product Features**<br>- Full-auto Calibration.<br>- 4-Color Printing with AMS lite.<br>- Under 48 dB Low Noise in Silent Mode.<br>- Full-metal Linear Rails and Bearings.<br>- Vibration and Flow Rate Compensation.                                                                                                                          |
 
 
 ## Get in Touch with Us
