@@ -15,6 +15,7 @@ Like Peli Motto, we believe in working with what you’ve got and making it grea
 - **Projects and Tools**: Explore our wide range of resources, including tutorials, project templates, and cutting-edge tools to help you turn your ideas into reality.  
 - **Workshops and Events**: Join us for hands-on workshops, live demos, and community meet-ups that offer opportunities to learn new skills and connect with others.  
 - **Support and Community**: Whether you’re looking for feedback, mentorship, or inspiration, our growing community is here to help every step of the way.
+
 ## Explore Our Current Projects, Review Past Successes, and Shape the Future
 
 At Peli's SciFi Workshop, every project tells a story. We invite you to:
