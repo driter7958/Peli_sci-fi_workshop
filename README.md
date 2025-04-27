@@ -34,11 +34,10 @@ At Peli's SciFi Workshop, every project tells a story. We invite you to:
 - **Review Our Past Projects**: Take a look at the projects we’ve completed so far. Our past projects reflect the innovation and collaboration at the core of our community. Learn from them, get inspired, and see how we’ve grown. Reviewing these projects can give you insight into how we work and what you can contribute in the future.
 
 
-| Project Repository    | Description  | Reference Links |
-| :-------------------- | :----------- | :-------------- |
-| Ventor Starship       | Row 1, Col 2 | place           |
-| OG Rebel Snow speeder | Row 2, Col 2 | place           |
-| Row 3, Col 1          | Row 3, Col 2 | Row 3, Col 3    |
+| Project Repository                                                                                             | Description                        | Reference Links |
+| :------------------------------------------------------------------------------------------------------------- | :--------------------------------- | :-------------- |
+| [Venator-Class Star Destroyer “Resolute”](https://driter7958.github.io/Venator-Class-Star-Destroyer-Resolute/) | paste description for model source | model source??? |
+| OG Rebel Snow speeder                                                                                          | Row 2, Col 2                       | place           |
 
 
 - **Shape the Future**: Have an idea for a new project? Want to help steer the direction of our next big build? You can play a critical role in shaping the future of our community. Whether you propose a new initiative or contribute to a current project, your ideas and involvement are what will help us continue to grow.

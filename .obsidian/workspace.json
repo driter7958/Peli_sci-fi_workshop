@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd576140b2cf5909",
+        "id": "9ff1423de4d807d5",
         "type": "tabs",
         "children": [
           {
-            "id": "eac87a8ef0239ff9",
+            "id": "3224dbf564606b3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,9 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2812a70abcdb1e42",
+  "active": "3224dbf564606b3f",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md"
+    "2025-04-27.md",
+    "README.md",
+    "Untitled.canvas"
   ]
 }
