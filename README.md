@@ -31,10 +31,11 @@ At Peli's SciFi Workshop, every project tells a story. We invite you to:
 
 - **Shape the Future**: Have an idea for a new project? Want to help steer the direction of our next big build? You can play a critical role in shaping the future of our community. Whether you propose a new initiative or contribute to a current project, your ideas and involvement are what will help us continue to grow.
 
-| Project Repository | Reference Links                                                                                                               | Description                     |
-| :----------------- | :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
-| Under review       | [SunFounder PiCar-V Smart Car Kit for Raspberry Pi](https://docs.sunfounder.com/projects/picar-v/en/latest/)                  | Row 2, Col 3                    |
-| Under review       | [Starwars Luke Skywalker landspeeder](https://www.cgtrader.com/3d-models/space/spaceship/starwars-luke-skywalker-landspeeder) | similar to the OG snow speeder  |
+| Project Repository | Reference Links                                                                                                               | Description                    |
+| :----------------- | :---------------------------------------------------------------------------------------------------------------------------- | :----------------------------- |
+| not yet            |                                                                                                                               | full scale B1 Battle Droid     |
+| Under review       | [SunFounder PiCar-V Smart Car Kit for Raspberry Pi](https://docs.sunfounder.com/projects/picar-v/en/latest/)                  | Row 2, Col 3                   |
+| Under review       | [Starwars Luke Skywalker landspeeder](https://www.cgtrader.com/3d-models/space/spaceship/starwars-luke-skywalker-landspeeder) | similar to the OG snow speeder |
 
 - **Review Our Past Projects**: Take a look at the projects we’ve completed so far. Our past projects reflect the innovation and collaboration at the core of our community. Learn from them, get inspired, and see how we’ve grown. Reviewing these projects can give you insight into how we work and what you can contribute in the future.
 
