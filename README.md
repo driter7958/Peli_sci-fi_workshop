@@ -1,6 +1,6 @@
 # Welcome to Peli's SciFi Workshop
 
-Welcome to the home of innovation, creativity, and collaboration\! Whether you're a seasoned expert or a beginner, we’re thrilled to have you here. This workshop is designed to be a space where ideas come to life, and every project, no matter how big or small, gets the attention it deserves. Together, we can build something great.  drewre
+Welcome to the home of innovation, creativity, and collaboration\! Whether you're a seasoned expert or a beginner, we’re thrilled to have you here. This workshop is designed to be a space where ideas come to life, and every project, no matter how big or small, gets the attention it deserves. Together, we can build something great.  
 ## Inspired by Peli Motto: Resourceful, Gritty, and Ready to Build
 
 At the heart of our workshop is a spirit inspired by *The Mandalorian’s* Peli Motto – a character who embodies resourcefulness, grit, and a deep love for building and fixing things. [Wookieepedia](https://starwars.fandom.com/wiki/Peli_Motto) Like Peli, we believe in:
