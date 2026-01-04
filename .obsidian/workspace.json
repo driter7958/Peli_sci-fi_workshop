@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "4f5f2ebc7bb155a2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f5f2ebc7bb155a2",
+  "active": "3224dbf564606b3f",
   "lastOpenFiles": [
     "Pasted image 20250427154248.png",
     "README.md",
