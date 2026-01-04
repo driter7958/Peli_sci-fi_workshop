@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -169,10 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3224dbf564606b3f",
+  "active": "2812a70abcdb1e42",
   "lastOpenFiles": [
-    "Pasted image 20250427154248.png",
+    "Untitled.base",
+    "Untitled 12.base",
+    "Untitled 11.base",
+    "Untitled 10.base",
+    "Untitled 9.base",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
     "README.md",
+    "Pasted image 20250427154248.png",
     "Pasted image 20250427154202.png",
     "2025-04-27.md",
     "Untitled.canvas"
